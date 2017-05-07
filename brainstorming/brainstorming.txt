@@ -1,0 +1,81 @@
+Anthonin Cocagne
+Ludovic Goldak
+Louis Guilbert
+Zakaria Hadjadji
+Damien Masson
+Hélène Meyer
+
+Virtual LILLE
+
+_______________________________________________
+___
+___ Brainstorming
+___
+
+Voici comment les idées sont notées:
+nb de votes sur 6 - idée - raisons du choix
+
+
+Problème 1 : Trouver une bonne station pour prendre son vélo
+
+4 pts - GPS à station - idéal pour les personnes qui ne savent pas où ils vont
+4 pts - Rentrer critère et en appuyant sur un bouton ça donne LA bonne borne (moteur de recherche) - pratique
+5 pts - Dire position et l’appli dit la station la plus proche avec au moins un vélo - base de GPS
+1 pts - Boussole - En générale, avec un V'Lille, les personnes savent où elles vont
+3 pts - Guide avec du son pour aller à la borne - pratique
+3 pts - Inscription avec enregistrements des infos - possibilité
+0 pts - Qqn réserve devant la borne (employé) - pas possible
+1 pts - livraison de vélo - pas possible
+0 pts - échange de vélo - pas possible
+4 pts - Planifier un trajet à l’avance, l’application trouve la station en fonction des statistiques - très pratique pour ne pas perdre de temps avant de partir
+5 pts - GPS en temps réel - pratique pour voir les alertes en temps réel
+6 pts - alerte - savoir
+1 pts - borne faisceau lumineux dans le ciel pour voir s’il y a de la place - s'il y a trop de faisceau dans le ciel, peur que ca devienne incompréhensible
+6 pts - lunette avec flèche sur la route - meilleur moyen pour un cycliste de se retrouver
+1 pts - attaché qqpart et ne pas payer - pas possible
+5 pts - système d’expérience et de niveau selon les stations utilisées et le nombre de fois qu’on a pris le vélo + bonus sur la route - fidélisation du client à l'application
+
+Problème 2 : Paiement
+
+5 pts - alerte - pratique pour savoir combien on doit payer
+2 pts - avantage à changer de borne (moins utilisée) - pas très pertinent
+5 pts - affichage d’un timer - savoir combien on doit payer
+3 pts - payer avec le smartphone et réserver avec un temps limité - pas possible mais bonne idée
+
+Problème 3: Se diriger
+
+2 pts - vibration donnant des informations - vibration avec le vélo et avec le téléphone, comment reconnaitre les deux ? Pas vraiment possible
+0 pts - signaux lumineux sur des lunettes pour donner de l’information - si trop d'informations, pas correct
+5 pts - ecouteurs pour donner de l’information - bonne idée car beaucoup de cycliste mettent leurs écouteurs
+4 pts - visuel pour donner de l’information - pratique
+4 pts - montre connectée - pratique mais manque de budget
+3 pts - donner de l’information par vocale - idem que pour le son
+3 pts - taper sur le téléphone pour qu’il exécute des choses - pratique mais il faut avoir un bon équilibre sur le vélo
+1 pts - bouton sur le côté des téléphones - pas pratique du tout, en générale le vélo est dans la poche
+
+
+Problème 4 : Etat du vélo - Sécurité vélo - Confort
+
+5 pts - noter station ou zone - ajouter du confort
+4 pts - feedback lors du retour du vélo vélo bien identifié et agent prévenu - ajouter du confort
+6 pts - Application choisit une route où on a forcément une piste cyclable - ajouter de la sécurité
+0 pts - Application chauffage - ne sert à rien
+0 pts - Support sur le vlille pour poser le téléphone - pas possible
+1 pts - eviter zones de pluie - compliqué à mettre en place
+6 pts - Réserver vélo - pas possible
+5 pts - statistique sur l’utilisation du vélo selon les stations - savoir quelle station est la plus utilisée
+5 pts - station favorites - avoir des favoris
+
+
+Toutes les idées ayant moins de 3 points n'ont pas été retenues.
+
+
+_______________________________________________
+___
+___ Scénario de conception
+___
+
+
+Comme tous les matins à 8h30, Albert décide de prendre un V’Lille pour aller travailler. Il décide alors de regarder s’il reste de la place pour déposer son vélo devant son lieu de travail. Pour cela, il allume l’application. Il a déjà planifié son trajet pour aller au travail. L’application ouvre une pop-up affichant le trajet. Il accepte en appuyant sur OK. Albert met ses lunettes. Les lunettes vont lui afficher le chemin à prendre en dessinant une ligne semi-transparente sur le sol. Les lunettes affichent également le nom de la station cible avec le nombre des vélos disponibles (ici 1). Sur le chemin, le nombre de vélos disponible tombe à 0. Les lunettes affichent une alerte “Redirection vers une autre station” avec le compteur du vélo à 0 (warning). Albert se dit qu’il attendra à la station et refuse en tapant sur la droite de ses lunettes. Il arrive à la station et quelqu’un arrive et prend son vélo. Les lunettes lui demande s’il a eu son vélo avec une alerte. Les lunettes affichent le nouveau trajet de la station jusqu’à celle d’arrivée. Pendant son trajet, les lunettes lui indiquent avec une alerte qu’il n’y a plus de place à la station d’arrivée et qu’il va être redirigé vers une autre station plus proche contenant de la place.Il arrive à la station et dépose son vélo. Les lunettes affiche un message qui indique qu’il peut noter son trajet et le vélo sur son smartphone. Albert prend son téléphone et indique que tout est ok. Les lunettes lui indiquent le chemin pour aller jusqu’à son travail.
+Le soir, Albert ouvre l’application et met ses lunettes et l’application lui propose de faire le chemin inverse. Arrivé à la borne, Albert prend son vélo. Il roule et crève une des roues en chemin. Il ouvre son smartphone et appuie sur “Je veux changer de vélo”. L’application lui demande un feedback sur le problème. Et le dirige vers la station la plus proche. Albert peut alors changer son vélo. Il reprend la route. Albert peut voir le nombre de minutes passées sur son vélo et il voit 25 minutes. Une alerte est affichée quelques temps plus tard pour indiquer que le temps de trajet restant estimé va dépasser les 30 minutes gratuites. L’application lui propose de poser son vélo à une station proche pour réinitialiser son compteur et ne rien payer.
+

@@ -1,0 +1,192 @@
+Anthonin Cocagne
+Ludovic Goldak
+Louis Guilbert
+Zakaria Hadjadji
+Damien Masson
+Hélène Meyer
+
+Virtual LILLE
+
+_______________________________________________
+___
+___ Utilisation des vélos en libre-service
+___ Interview n° 1
+___
+
+
+* PRESENTATION GENERALE
+
+Homme de 19 ans - étudiant
+
+*  QUESTIONS SPECIFIQUES
+
+La semaine derniere :
+
+- Nombre de fois de prise du vélo : 3
+- Nombre de min d'utilisation du vélo : 10 min
+- Temps avant d'arrivée à la borne de vélo : 15 min
+- Temps de la borne à la destination : 5/10 min
+
+Habituel : oui
+
+* QUESTIONS SPECIFIQUES ET OUVERTES
+
+Type de trajet : régulier car mieux pour circuler à Lille
+
+La semaine dernière :
+
+- Ne pas pouvoir prendre de vélo : Non et c'est rare
+- Prendre une borne différente : Oui car trop de monde ou pas de place
+- Ne pas trouver de place : Oui, du coup changement de borne
+- Ne pas trouver la route : Non, les premières fois sont plus compliquées mais après c'est habituel
+
+* QUESTIONS GENERALES ET OUVERTES :
+
+- Utiliser une application: avant -> horaires, pendant -> musique
+- Trouver les stations V'Lille : Station connue
+- Raisons de privilégier une station plutôt qu'une autre : proximité
+- Raisons pour laquelle ça empeche de prendre le vélo : ne pas trouver de vélo ou covoiturage
+- Raisons pour laquelle ça pousse à prendre le vélo : + économique et - bouchon
+
+
+_______________________________________________
+___
+___ Utilisation des vélos en libre-service
+___ Interview n° 2
+___
+
+
+* PRESENTATION GENERALE
+
+Homme de 22 ans - étudiant
+
+*  QUESTIONS SPECIFIQUES
+
+La semaine derniere :
+
+- Nombre de fois de prise du vélo : 5
+- Nombre de min d'utilisation du vélo : 15 min
+- Temps avant d'arrivée à la borne de vélo : 5 min
+- Temps de la borne à la destination : 5/10 min
+
+Habituel : non
+
+* QUESTIONS SPECIFIQUES ET OUVERTES
+
+Type de trajet : ponctuel
+
+La semaine dernière :
+
+- Ne pas pouvoir prendre de vélo : Non
+- Prendre une borne différente : Non
+- Ne pas trouver de place : Non
+- Ne pas trouver la route : Oui, heureusement que le téléphone existe
+
+* QUESTIONS GENERALES ET OUVERTES :
+
+- Utiliser une application: Oui GoogleMap pendant trajet
+- Trouver les stations V'Lille : Station connue
+- Raisons de privilégier une station plutôt qu'une autre : proximité
+- Raisons pour laquelle ça empeche de prendre le vélo : mauvais état
+- Raisons pour laquelle ça pousse à prendre le vélo : beau temps, plus de métro
+
+_______________________________________________
+___
+___ Utilisation des vélos en libre-service
+___ Interview n° 3
+___
+
+
+* PRESENTATION GENERALE
+
+Homme de 34 ans - cadre
+
+*  QUESTIONS SPECIFIQUES
+
+La semaine derniere :
+
+- Nombre de fois de prise du vélo : 1
+- Nombre de min d'utilisation du vélo : 30 min
+- Temps avant d'arrivée à la borne de vélo : 30 min
+- Temps de la borne à la destination : 10 min
+
+Habituel : non
+
+* QUESTIONS SPECIFIQUES ET OUVERTES
+
+Type de trajet : ponctuel
+
+La semaine dernière :
+
+- Ne pas pouvoir prendre de vélo : Non
+- Prendre une borne différente : Pas de place
+- Ne pas trouver de place : Oui, du coup changement de borne
+- Ne pas trouver la route : Non
+
+* QUESTIONS GENERALES ET OUVERTES :
+
+- Utiliser une application: Oui toujours
+- Trouver les stations V'Lille : avec application
+- Raisons de privilégier une station plutôt qu'une autre : pas vraiment
+- Raisons pour laquelle ça empeche de prendre le vélo : pas de place
+- Raisons pour laquelle ça pousse à prendre le vélo : plus propre, écologique et + activité physique
+
+_______________________________________________
+___
+___ Utilisation des vélos en libre-service
+___ Interview n° 4
+___
+
+
+* PRESENTATION GENERALE
+
+Homme de 31 ans - cadre supérieur
+
+*  QUESTIONS SPECIFIQUES
+
+La semaine derniere (il y a 3 ans):
+
+- Nombre de fois de prise du vélo : 4
+- Nombre de min d'utilisation du vélo : 45 min
+- Temps avant d'arrivée à la borne de vélo : 10 min
+- Temps de la borne à la destination : 7/10 min
+
+Habituel : non mais il y a 3 ans oui
+
+* QUESTIONS SPECIFIQUES ET OUVERTES
+
+Type de trajet : ponctuel
+
+La semaine dernière :
+
+- Ne pas pouvoir prendre de vélo : Non
+- Prendre une borne différente : Non
+- Ne pas trouver de place : Non
+- Ne pas trouver la route : Non
+
+* QUESTIONS GENERALES ET OUVERTES :
+
+- Utiliser une application: Non
+- Trouver les stations V'Lille : passe devant
+- Raisons de privilégier une station plutôt qu'une autre : plus belle
+- Raisons pour laquelle ça empeche de prendre le vélo : mauvais temps + taux d'alcoolémie
+- Raisons pour laquelle ça pousse à prendre le vélo : beau temps + taux d'alcoolémie
+
+
+_______________________________________________
+___
+___ Scénario d'usage
+___
+
+** Scénario 1
+
+Comme tous les matins à 8h30, Albert décide de prendre un V’Lille pour aller travailler. Il décide alors de regarder s’il reste de la place pour déposer son vélo devant son lieu de travail. Pour cela, il allume l’application Transpole. Il choisit le menu V’Lille et sélectionne la station V’Lille la plus proche de son travail qui se trouve à Euratechnologie. Il clique sur la station 83 “EuraTechnologies”. Il voit alors qu’il reste 5 bornes d’attaches libres. Albert va sur la borne et passe sa carte d’abonnement devant le lecteur. Il peut alors choisir son vélo et se mettre en route. Une fois arrivé, Albert ne trouve aucune place pour son vélo. Par peur d’arriver en retard à son travail, Albert s’empresse de regarder sur l’application la station la plus proche de lui avec des places libres. Il ouvre l’application sur son smartphone et choisit le menu V’Lille. Il regarde alors les stations se trouvant à côté. Il clique sur “Station 72: Canteleu” et voit qu’il reste deux places. Ils se dépêche pour avoir une place disponible. Une fois arrivé, Albert pose son vélo sur le seul emplacement libre et peut aller à son travail. Il lui reste 10 minutes à effectuer avant d’arriver sur son lieu de travail.
+
+
+** Scénario 2
+
+Aujourd’hui, Bernard doit se rendre à 15h chez Christophe. A 14h, Bernard se met en route. Arrivé à une intersection, il ne sait pas vers quel côté s’orienter. Il s’arrête et regarde son téléphone et ouvre une application pour savoir vers quelle direction aller. Et ceci pendant 3 autres fois. Arrivé dans un endroit, il se retrouve bloqué car la route est en travaux. Il essaie de passer par un chemin pour éviter de perdre trop de temps mais il se perd.. et retrouve la route 30 minutes après s’être perdu. Bernard est arrivé à 15h30 devant la borne de destination. Il dépose son vélo et se rend compte qu’il ne peut pas payer par carte. Il cherche alors un distributeur de billet à côté de là où il se trouve. Dès qu’il a retiré de l’argent, il voit au loin une autre borne de vélo qui accepte le paiement par carte bancaire. Bernard paie alors par carte à ce nouvel endroit.
+
+** Scénario 3
+
+Jonathan était en ville mais n’a pas vu l’heure, il est 00:30 et il n’y plus de métro, qui était pourtant le moyen de transport qu’il pensait utiliser pour rentrer chez lui. Il décide donc de louer un v’lille à la place. Ca tombe bien, il y a une station juste à côté, il s’y rend et tente de payer à la borne. Malheureusement cette dernière ne permet pas de payer et n’accepte que les abonnements. Il va donc un peu plus loin et trouve une station où il peut louer un vélo. Il fait la route, jusqu'à chez lui. Sur le chemin il ne se sent pas en sécurité car il n’y a pas de piste de cyclable, les voitures le frôle et il a failli tomber. Une fois arrivé à la station la plus proche de sa destination, il s'aperçoit qu’il n’y a pas de place disponible, il décide donc d’aller poser le vélo à une autre station. Malheureusement, le temps d’arriver à l’autre station, il dépasse le temps autorisé par la première demi-heure gratuite, il va donc devoir payer 1€60 supplémentaire. Il arrive finalement à déposer son vélo et fait les derniers mètres à pied.
